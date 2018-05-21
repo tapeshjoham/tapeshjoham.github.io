@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # main text of home
 name: Tapesh Joham
 bio: A Man who travels the world eating noodles
@@ -112,4 +111,3 @@ jekyll-mentions:
     base_url: https://github.com
 =======
 theme: jekyll-theme-minimal
->>>>>>> 899ce2e61f93a220078594777d61a6e66f6de250
