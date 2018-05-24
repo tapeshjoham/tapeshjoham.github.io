@@ -54,12 +54,12 @@ github: tapeshjoham
 email: tapeshjoham@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
+    tapeshjoham:
+        name: Tapesh Joham
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: tapeshjoham
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
