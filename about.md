@@ -9,7 +9,7 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Algorithms and Datastruture</li>
+	<li>Algorithms and Datastructures</li>
 	<li>C, C++, Python</li>
 	<li>Deep Learning, ML and AI</li>
 </ul>
