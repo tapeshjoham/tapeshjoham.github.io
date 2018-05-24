@@ -23,6 +23,6 @@ We made a java program to format a query string to search on Google Scholar and 
 When I came back to Bikaner, I decided to do coding in a non-Virtual_Machine environment. Besides Dual-Boot, I was looking for options to compile and run my programs straight from Windows. I had already used Turbo C and felt it was too outdated to be used. Therefore I installed Dev-C++ from my setups treasure and my files were compiling in it but not running due to "Source File Not Compiled" error. I looked it up on internet and found out on stackoverflow.com that for Windows 8.1, a newer version Orwell Dev-C++ was required. I uninstalled the previous one and installed the new one. Ta-Da !!! My programs ran successfully now .
 
 But still I missed the Linux feel to it, therefore I installed CygWin Terminal onto my laptop and rushed through the installation process.
-Once installed the Linux-terminal simulator, I thought of learning about some standard Linux terminal commands and vim shortcuts. I found them out on Linux Command and Vim Shortcuts
+Once installed the Linux-terminal simulator, I thought of learning about some standard Linux terminal commands and vim shortcuts. I found them out on Linux Command and Vim Shortcuts.
 
 ---
