@@ -21,10 +21,7 @@ This blog is about the time we trekked to the Triund. Me and my friends went on 
 Next Morning, we hired a cab up the start point of the trek. Before starting the trek, we have to submit the group details along with our IDs to the office at the start point. We started trekking to the top. We saw few people trekking along the way.  It was cloudy at the beginning of the trek. Around 10 a.m., we finally saw the sunshine. Two hours into the trek, we tired and hungry. We didn't bring much with us. We ate most of it on the bus. In 15 minutes, we saw some local opening his small shop at the end of the cliff. Each of us had one omelet. In the halfway of the trek, the cloud began to emerge. We continued to trek with a small break in-between. We finally reached the top in 5 hours and 25 minutes. We were hoping to see the view from the mountain. But we cant see much because the mountain was covered by the cloud and it started raining. After 30 minutes of raining, we finally able to saw from the peak.
 ![Markdowm Image][1]
 *Figure Caption*?
+---
 [1]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
 [2]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
 [3]: http://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
-
-
----
-	
