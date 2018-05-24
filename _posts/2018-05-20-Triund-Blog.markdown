@@ -27,6 +27,6 @@ Next Morning, we hired a cab up the start point of the trek. Before starting the
 ![Markdowm Image][3]
 
 ---
-[1]: tapeshjoham.github.io/assets/images/monk.jpeg
-[2]: tapeshjoham.github.io/assets/images/fog.jpeg
-[3]: tapeshjoham.github.io/assets/images/peak.jpeg
+[1]: http://tapeshjoham.github.io/assets/images/monk.jpeg
+[2]: http://tapeshjoham.github.io/assets/images/fog.jpeg
+[3]: http://tapeshjoham.github.io/assets/images/peak.jpeg
