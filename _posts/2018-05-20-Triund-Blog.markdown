@@ -14,7 +14,7 @@ description: Trek to the Triund Peak and Beyond
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
-## Trek to the Triund Peak and Beyond:
+## Trek to the Triund Peak and Beyond
 
 This blog is about the time we trekked to the Triund. Me and my friends went on this trip during 6th Semester. We leave early with the first bus from the Kamand campus. From Mandi, we took the bus to the Dharamsala. It was rainy the whole time. In the bus, we met two monks and talked for a while.
 ![Markdowm Image][1]
